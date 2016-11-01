@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "crypter", "crypter\crypter.vcxproj", "{32B18F0C-FF3C-42EF-B23D-67B3D4D6CDDB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "image", "image\image.vcxproj", "{A46B8598-28A8-4630-ACEE-9C87A1029590}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "base7", "base7\base7.vcxproj", "{C668C8CC-5F26-492A-8E7E-D6CE9B795218}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +19,14 @@ Global
 		{32B18F0C-FF3C-42EF-B23D-67B3D4D6CDDB}.Debug|Win32.Build.0 = Debug|Win32
 		{32B18F0C-FF3C-42EF-B23D-67B3D4D6CDDB}.Release|Win32.ActiveCfg = Release|Win32
 		{32B18F0C-FF3C-42EF-B23D-67B3D4D6CDDB}.Release|Win32.Build.0 = Release|Win32
+		{A46B8598-28A8-4630-ACEE-9C87A1029590}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A46B8598-28A8-4630-ACEE-9C87A1029590}.Debug|Win32.Build.0 = Debug|Win32
+		{A46B8598-28A8-4630-ACEE-9C87A1029590}.Release|Win32.ActiveCfg = Release|Win32
+		{A46B8598-28A8-4630-ACEE-9C87A1029590}.Release|Win32.Build.0 = Release|Win32
+		{C668C8CC-5F26-492A-8E7E-D6CE9B795218}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C668C8CC-5F26-492A-8E7E-D6CE9B795218}.Debug|Win32.Build.0 = Debug|Win32
+		{C668C8CC-5F26-492A-8E7E-D6CE9B795218}.Release|Win32.ActiveCfg = Release|Win32
+		{C668C8CC-5F26-492A-8E7E-D6CE9B795218}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
