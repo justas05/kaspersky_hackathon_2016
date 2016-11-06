@@ -18,8 +18,6 @@
 ***************************************************************************
 */
 
-#define _CRT_SECURE_NO_WARNINGS
-
 #ifndef INCLUDE_BITMAP_IMAGE_HPP
 #define INCLUDE_BITMAP_IMAGE_HPP
 
